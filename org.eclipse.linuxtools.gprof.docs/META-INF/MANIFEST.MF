@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.3
+Build-Jdk-Spec: 21
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name
+Bundle-SymbolicName: org.eclipse.linuxtools.gprof.docs;singleton:=true
+Bundle-Version: 1.0.0.202411262017
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.help
+Bundle-Vendor: %Bundle-Vendor
+Automatic-Module-Name: org.eclipse.linuxtools.gprof.docs
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-linuxtools/
+ org.eclipse.linuxtools;path="gprof/org.eclipse.linuxtools.gprof.docs";c
+ ommitId=f60d3e04e919d1bc5d13b74af2e3e6ed9743af0e
+Bundle-License: Eclipse Public License v2.0
+
